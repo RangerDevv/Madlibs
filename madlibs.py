@@ -5,7 +5,7 @@ verb =  input('Verb: ')
 letsplay = input('Do you want to play? type yes or no (NO CAPS!) ')
 
 if letsplay == 'yes':
-    print('I', adj , 'programming that I can' , noun1 , 'for it. It makes be feel' , adj , 'and helps me' , verb , 'faster. it helps me relieve my stress and makes me' , adj , 'So, weather what you think about programming... I ' , adj , 'IT!!')
+    print('I', adj , 'programming that I can' , noun1 , 'for it. It makes me feel' , adj , 'and helps me' , verb , 'faster. it helps me relieve my stress and makes me' , adj , 'So, whatever you think about programming... I ' , adj , 'IT!!')
     tryagain = input('Would you like to try again?')
     if tryagain == 'yes':
         adj = input("Adjetive: ")
